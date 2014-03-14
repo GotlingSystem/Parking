@@ -1,0 +1,40 @@
+{
+  "uuid": "3b59dece-2a92-4dda-811a-13bc992df13e",
+  "shortName": "Solna",
+  "longName": "Solna Parkering",
+  "companyName": "Gotling System AB",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "capabilities": [ "location" ],
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "images/icon.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_PLUS",
+        "file": "images/common/action_icon_plus.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_MINUS",
+        "file": "images/common/action_icon_minus.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_CONFIRM",
+        "file": "images/common/action_icon_confirm.png"
+      }
+    ]
+  }
+}
